@@ -1,5 +1,4 @@
 const inquirer = require('inquirer');
-const generatePage = require('./generate-page.js');
 const htmltemplate = require('./htmltemplate.js');
 const Manager = require('../lib/manager');
 const Engineer = require('../lib/Engineer');
